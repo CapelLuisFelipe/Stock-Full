@@ -1,0 +1,8 @@
+# Ignorar dependências do Node.js
+node_modules/
+
+# Arquivos sensíveis
+.env
+
+# Build e cache
+dist/
